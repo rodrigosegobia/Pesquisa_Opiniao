@@ -41,15 +41,15 @@ Antes da versão final com 50 entrevistados, o funcionamento foi validado com **
 
 ### Código utilizado no teste
 
-![Código do teste](prints/codigo_teste.png)
+![Código do teste](https://i.ibb.co/N2qnKQzz/image.png)
 
 ### Execução do teste
 
-![Execução - parte 1](prints/execucao_01.png)
+![Execução - parte 1](https://i.ibb.co/b5rpFVS6/image.png)
 
-![Execução - parte 2](prints/execucao_02.png)
+![Execução - parte 2](https://i.ibb.co/8DMGyRJ5/image.png)
 
-![Resultado do teste](prints/execucao_resultado.png)
+![Resultado do teste](https://i.ibb.co/7Njc3GHx/image.png)
 
 No teste realizado, o resultado final foi:
 
